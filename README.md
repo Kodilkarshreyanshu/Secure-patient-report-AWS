@@ -23,4 +23,3 @@ This project demonstrates how to securely deliver patient reports using AWS serv
 
 ---
 
-**Author:** Shreyanshu Kodilkar  
